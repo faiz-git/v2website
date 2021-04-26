@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a287df685c8499df632e/maintainability)](https://codeclimate.com/github/exercism/website/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a287df685c8499df632e/test_coverage)](https://codeclimate.com/github/exercism/website/test_coverage)
 
-## Developmeent setup
+## Developmeentt setup
 
 This is a Ruby on Rails (5.2) application backed by MySQL. There are two ways to run it locally:
 1) Setup a local development environment with the steps below.
